@@ -1,0 +1,301 @@
+Employee_ID,Tenure_Years,                  Role,        Grade,      Department,          Location,                Manager_ID,        Performance_Rating,            Compensation_Band,Promotion_Last_3 Years,                 Exit_Survey_Reason,Exit_Type,   Attrition_Flag_1_Voluntary_0_Other
+EMP001,4.8,Senior Engineer,G4,Operations,Bangalore,MGR114,2,High,Yes,Career Growth,Transfer,0
+EMP002,11.4,Senior Engineer,G7,Engineering,Mumbai,MGR105,2,Low,Yes,,Transfer,0
+EMP003,8.9,Project Manager,G7,Human Resources,Pune,MGR137,3,Low,Yes,,Layoff,0
+EMP004,7.4,Business Analyst,G6,Human Resources,Bangalore,MGR148,3,Low,Yes,,Layoff,0
+EMP005,2.3,Senior Engineer,G6,Operations,Hyderabad,MGR116,1,High,No,,Transfer,0
+EMP006,2.3,Senior Engineer,G7,Engineering,Hyderabad,MGR118,5,Mid,Yes,Better Opportunity,Voluntary,1
+EMP007,1.2,Project Manager,G6,Engineering,Bangalore,MGR106,4,Mid,No,,Retirement,0
+EMP008,10.5,HR Executive,G6,Operations,Bangalore,MGR142,3,High,Yes,,Transfer,0
+EMP009,7.4,HR Executive,G5,Human Resources,Pune,MGR124,3,High,Yes,,Retirement,0
+EMP010,8.6,Software Engineer,G5,Engineering,Delhi,MGR125,3,Low,Yes,,Transfer,0
+EMP011,0.7,Business Analyst,G5,Analytics,Pune,MGR141,4,Low,No,,Active,0
+EMP012,11.7,Project Manager,G6,Finance,Pune,MGR137,4,Mid,Yes,,Active,0
+EMP013,10.1,QA Engineer,G4,Engineering,Mumbai,MGR109,2,High,No,,Transfer,0
+EMP014,2.9,Senior Engineer,G7,Analytics,Hyderabad,MGR129,5,Mid,Yes,Relocation,Voluntary,1
+EMP015,2.6,Data Analyst,G6,Engineering,Delhi,MGR127,2,Mid,Yes,,Retirement,0
+EMP016,2.6,HR Executive,G4,Operations,Chennai,MGR132,5,Low,Yes,,Retirement,0
+EMP017,4,HR Executive,G4,Finance,Delhi,MGR131,1,Low,No,,Retirement,0
+EMP018,6.5,Project Manager,G4,Human Resources,Hyderabad,MGR105,1,High,No,Career Growth,Voluntary,1
+EMP019,5.5,HR Executive,G5,Analytics,Hyderabad,MGR110,3,High,No,,Active,0
+EMP020,3.8,Project Manager,G6,Analytics,Chennai,MGR141,3,Mid,No,Compensation,Voluntary,1
+EMP021,7.5,Project Manager,G4,Operations,Mumbai,MGR137,5,Low,Yes,Better Opportunity,Voluntary,1
+EMP022,2.1,Software Engineer,G5,Engineering,Mumbai,MGR121,1,High,Yes,,Retirement,0
+EMP023,3.9,QA Engineer,G5,Finance,Bangalore,MGR146,5,High,No,,Active,0
+EMP024,4.7,QA Engineer,G7,Human Resources,Mumbai,MGR106,4,Mid,No,,Layoff,0
+EMP025,5.7,QA Engineer,G4,Engineering,Mumbai,MGR125,3,Low,Yes,,Active,0
+EMP026,9.5,Project Manager,G7,Human Resources,Pune,MGR111,3,Mid,Yes,Work-Life Balance,Voluntary,1
+EMP027,2.8,Senior Engineer,G4,Finance,Mumbai,MGR105,2,Low,No,,Layoff,0
+EMP028,6.4,QA Engineer,G5,Analytics,Mumbai,MGR110,4,Low,No,,Retirement,0
+EMP029,7.3,QA Engineer,G6,Analytics,Chennai,MGR146,5,High,No,,Active,0
+EMP030,1,Project Manager,G6,Human Resources,Mumbai,MGR137,5,Low,No,Better Opportunity,Voluntary,1
+EMP031,7.5,QA Engineer,G5,Engineering,Hyderabad,MGR105,2,Low,Yes,,Active,0
+EMP032,2.5,Team Lead,G4,Finance,Bangalore,MGR137,5,Low,Yes,,Layoff,0
+EMP033,1.2,Business Analyst,G6,Human Resources,Chennai,MGR145,3,Low,No,,Layoff,0
+EMP034,11.4,HR Executive,G6,Analytics,Delhi,MGR148,1,Low,No,,Transfer,0
+EMP035,11.6,Senior Engineer,G4,Finance,Bangalore,MGR132,3,Low,No,Compensation,Voluntary,1
+EMP036,9.8,Business Analyst,G6,Human Resources,Pune,MGR134,3,High,Yes,,Transfer,0
+EMP037,4,Data Analyst,G4,Human Resources,Delhi,MGR107,1,High,Yes,,Retirement,0
+EMP038,1.6,Data Analyst,G5,Operations,Bangalore,MGR143,3,High,No,,Retirement,0
+EMP039,8.4,Software Engineer,G4,Analytics,Delhi,MGR102,1,Mid,Yes,,Retirement,0
+EMP040,5.6,HR Executive,G7,Finance,Chennai,MGR127,5,Low,Yes,Relocation,Voluntary,1
+EMP041,1.9,HR Executive,G4,Operations,Hyderabad,MGR135,2,Mid,Yes,Manager Issues,Voluntary,1
+EMP042,6.2,Business Analyst,G4,Operations,Bangalore,MGR143,2,High,Yes,,Retirement,0
+EMP043,0.9,Team Lead,G5,Human Resources,Bangalore,MGR111,4,Low,Yes,,Retirement,0
+EMP044,11,Team Lead,G5,Operations,Bangalore,MGR150,1,Mid,Yes,,Layoff,0
+EMP045,3.5,Project Manager,G5,Analytics,Delhi,MGR119,2,Low,Yes,,Active,0
+EMP046,8.1,Team Lead,G6,Operations,Mumbai,MGR149,3,Mid,No,,Transfer,0
+EMP047,4.1,Business Analyst,G4,Engineering,Delhi,MGR111,5,Mid,Yes,Career Growth,Voluntary,1
+EMP048,6.5,Team Lead,G6,Operations,Pune,MGR138,5,Low,No,,Transfer,0
+EMP049,6.8,Project Manager,G6,Engineering,Chennai,MGR127,1,High,Yes,,Retirement,0
+EMP050,2.6,Team Lead,G4,Operations,Hyderabad,MGR120,1,High,No,,Transfer,0
+EMP051,11.7,Data Analyst,G7,Operations,Pune,MGR144,3,High,Yes,,Active,0
+EMP052,9.4,Team Lead,G7,Human Resources,Hyderabad,MGR136,3,Mid,Yes,,Retirement,0
+EMP053,11.3,Data Analyst,G5,Analytics,Hyderabad,MGR138,3,Mid,No,,Layoff,0
+EMP054,10.8,Project Manager,G7,Human Resources,Chennai,MGR105,3,High,No,Compensation,Voluntary,1
+EMP055,7.4,Data Analyst,G5,Human Resources,Bangalore,MGR101,1,Low,No,,Transfer,0
+EMP056,11.1,Senior Engineer,G7,Analytics,Chennai,MGR136,2,High,No,,Layoff,0
+EMP057,1.5,Team Lead,G5,Human Resources,Chennai,MGR144,1,Low,No,,Active,0
+EMP058,2.8,HR Executive,G7,Engineering,Hyderabad,MGR115,1,Mid,Yes,,Layoff,0
+EMP059,1,Business Analyst,G7,Finance,Chennai,MGR132,4,High,No,,Active,0
+EMP060,4.2,QA Engineer,G7,Operations,Bangalore,MGR140,3,High,No,,Active,0
+EMP061,5,Data Analyst,G7,Engineering,Chennai,MGR118,2,Mid,No,,Retirement,0
+EMP062,3.6,Senior Engineer,G5,Human Resources,Bangalore,MGR124,2,High,Yes,Work-Life Balance,Voluntary,1
+EMP063,10,Team Lead,G6,Finance,Pune,MGR126,1,Low,No,,Layoff,0
+EMP064,4.6,Software Engineer,G7,Analytics,Mumbai,MGR122,3,Mid,No,,Transfer,0
+EMP065,3.7,Project Manager,G7,Human Resources,Delhi,MGR127,4,Low,No,,Retirement,0
+EMP066,6.7,Team Lead,G5,Analytics,Bangalore,MGR139,5,Low,No,,Transfer,0
+EMP067,2.1,Software Engineer,G4,Analytics,Bangalore,MGR129,2,Low,No,,Layoff,0
+EMP068,9.7,Business Analyst,G5,Analytics,Delhi,MGR121,4,Mid,No,,Retirement,0
+EMP069,1.4,Senior Engineer,G7,Engineering,Chennai,MGR134,1,Mid,Yes,Relocation,Voluntary,1
+EMP070,11.8,Software Engineer,G4,Human Resources,Bangalore,MGR101,5,Low,Yes,,Active,0
+EMP071,9.4,QA Engineer,G4,Finance,Bangalore,MGR129,3,Mid,Yes,,Transfer,0
+EMP072,2.8,Senior Engineer,G5,Operations,Mumbai,MGR137,1,Mid,No,,Layoff,0
+EMP073,0.6,Project Manager,G4,Finance,Chennai,MGR140,2,Low,No,,Transfer,0
+EMP074,9.9,Senior Engineer,G4,Operations,Hyderabad,MGR127,3,Low,No,Work-Life Balance,Voluntary,1
+EMP075,8.6,QA Engineer,G4,Analytics,Delhi,MGR140,4,High,Yes,,Layoff,0
+EMP076,8.9,HR Executive,G6,Finance,Hyderabad,MGR149,4,Mid,No,,Transfer,0
+EMP077,9.4,Data Analyst,G6,Human Resources,Mumbai,MGR117,4,Low,No,,Transfer,0
+EMP078,1.4,Team Lead,G6,Engineering,Pune,MGR120,2,Mid,Yes,,Retirement,0
+EMP079,4.6,Data Analyst,G6,Operations,Hyderabad,MGR144,3,High,Yes,,Transfer,0
+EMP080,1.8,Project Manager,G4,Human Resources,Chennai,MGR126,4,High,Yes,,Layoff,0
+EMP081,10.4,QA Engineer,G7,Engineering,Mumbai,MGR118,2,Mid,Yes,,Retirement,0
+EMP082,7.7,Business Analyst,G7,Finance,Hyderabad,MGR122,4,High,No,,Retirement,0
+EMP083,4.3,QA Engineer,G6,Operations,Delhi,MGR114,1,High,Yes,,Retirement,0
+EMP084,1.2,Senior Engineer,G5,Human Resources,Bangalore,MGR147,4,Mid,No,Compensation,Voluntary,1
+EMP085,4.1,Data Analyst,G5,Operations,Bangalore,MGR119,1,High,Yes,,Retirement,0
+EMP086,4.2,Software Engineer,G4,Finance,Delhi,MGR144,2,High,No,Better Opportunity,Voluntary,1
+EMP087,8.9,Data Analyst,G7,Analytics,Pune,MGR121,2,Low,No,,Layoff,0
+EMP088,7.8,Senior Engineer,G4,Analytics,Pune,MGR104,5,High,Yes,,Active,0
+EMP089,10.7,HR Executive,G6,Engineering,Bangalore,MGR107,5,Mid,Yes,,Transfer,0
+EMP090,5.9,Team Lead,G7,Analytics,Delhi,MGR137,4,Mid,Yes,,Transfer,0
+EMP091,1.9,Senior Engineer,G5,Human Resources,Delhi,MGR142,1,Low,Yes,,Active,0
+EMP092,8.7,Senior Engineer,G5,Engineering,Pune,MGR128,5,Mid,No,Compensation,Voluntary,1
+EMP093,9.2,Data Analyst,G6,Analytics,Mumbai,MGR143,2,Mid,Yes,,Layoff,0
+EMP094,7,Senior Engineer,G5,Human Resources,Delhi,MGR109,1,Low,Yes,,Retirement,0
+EMP095,9.4,Data Analyst,G7,Engineering,Pune,MGR144,3,High,No,,Retirement,0
+EMP096,6.2,QA Engineer,G7,Engineering,Hyderabad,MGR102,4,High,No,,Transfer,0
+EMP097,6.5,Data Analyst,G4,Engineering,Bangalore,MGR143,5,High,Yes,,Retirement,0
+EMP098,5.4,Software Engineer,G5,Analytics,Hyderabad,MGR141,4,Mid,Yes,,Transfer,0
+EMP099,0.8,Team Lead,G7,Engineering,Pune,MGR122,4,Mid,No,Compensation,Voluntary,1
+EMP100,1.7,Business Analyst,G7,Analytics,Delhi,MGR142,4,High,Yes,,Layoff,0
+EMP101,0.9,Senior Engineer,G6,Operations,Delhi,MGR107,4,High,Yes,,Transfer,0
+EMP102,7.8,QA Engineer,G7,Engineering,Bangalore,MGR133,3,High,No,,Layoff,0
+EMP103,4.1,Software Engineer,G5,Operations,Hyderabad,MGR108,3,Mid,No,Better Opportunity,Voluntary,1
+EMP104,6.3,Project Manager,G5,Operations,Hyderabad,MGR100,5,Mid,Yes,,Active,0
+EMP105,10.9,Senior Engineer,G7,Engineering,Chennai,MGR109,4,High,No,,Transfer,0
+EMP106,3.4,Data Analyst,G7,Analytics,Pune,MGR115,4,High,Yes,,Layoff,0
+EMP107,5.2,Project Manager,G5,Engineering,Delhi,MGR149,4,Mid,No,Manager Issues,Voluntary,1
+EMP108,9.2,Data Analyst,G7,Human Resources,Pune,MGR134,4,Mid,No,,Transfer,0
+EMP109,3.1,Team Lead,G7,Operations,Bangalore,MGR144,2,High,No,,Active,0
+EMP110,1.4,Team Lead,G4,Operations,Chennai,MGR130,4,Mid,Yes,,Layoff,0
+EMP111,3.8,Software Engineer,G5,Finance,Hyderabad,MGR121,1,Mid,Yes,,Transfer,0
+EMP112,2.4,QA Engineer,G4,Human Resources,Pune,MGR141,2,Low,No,,Retirement,0
+EMP113,11.2,Business Analyst,G7,Engineering,Delhi,MGR143,5,Mid,No,,Layoff,0
+EMP114,9.8,Software Engineer,G4,Human Resources,Chennai,MGR143,3,Low,Yes,,Layoff,0
+EMP115,7.8,Senior Engineer,G4,Analytics,Bangalore,MGR144,3,Low,Yes,,Retirement,0
+EMP116,10.5,Software Engineer,G6,Operations,Delhi,MGR127,2,Low,No,,Transfer,0
+EMP117,9.7,HR Executive,G5,Human Resources,Mumbai,MGR139,4,High,Yes,,Layoff,0
+EMP118,2.6,HR Executive,G5,Analytics,Chennai,MGR116,4,Mid,Yes,,Layoff,0
+EMP119,10.8,Data Analyst,G5,Engineering,Pune,MGR122,5,Mid,No,,Retirement,0
+EMP120,6.7,QA Engineer,G6,Human Resources,Pune,MGR130,1,Low,No,,Transfer,0
+EMP121,9.8,Business Analyst,G6,Operations,Mumbai,MGR142,4,Mid,Yes,,Transfer,0
+EMP122,10.8,Software Engineer,G7,Operations,Bangalore,MGR138,3,Low,Yes,,Transfer,0
+EMP123,4.2,Data Analyst,G5,Engineering,Chennai,MGR141,1,Mid,No,Career Growth,Voluntary,1
+EMP124,1.8,Business Analyst,G5,Engineering,Delhi,MGR120,4,Low,Yes,,Active,0
+EMP125,3.1,Business Analyst,G6,Human Resources,Delhi,MGR130,3,High,No,Work-Life Balance,Voluntary,1
+EMP126,5.4,Senior Engineer,G5,Human Resources,Chennai,MGR146,4,High,No,Work-Life Balance,Voluntary,1
+EMP127,9.9,Software Engineer,G6,Finance,Mumbai,MGR129,3,High,No,,Transfer,0
+EMP128,10.4,Team Lead,G6,Engineering,Chennai,MGR114,4,Low,No,,Transfer,0
+EMP129,0.6,Project Manager,G4,Analytics,Chennai,MGR119,4,Low,Yes,Better Opportunity,Voluntary,1
+EMP130,6.4,Data Analyst,G7,Engineering,Mumbai,MGR115,5,Low,No,,Layoff,0
+EMP131,5.3,Business Analyst,G7,Finance,Chennai,MGR146,2,Mid,Yes,,Layoff,0
+EMP132,3.1,Team Lead,G6,Engineering,Chennai,MGR123,2,Mid,No,,Active,0
+EMP133,1.9,Business Analyst,G4,Operations,Hyderabad,MGR141,3,Low,No,,Retirement,0
+EMP134,4.4,Project Manager,G4,Analytics,Mumbai,MGR142,2,High,Yes,Manager Issues,Voluntary,1
+EMP135,11.3,Project Manager,G5,Finance,Bangalore,MGR104,5,Low,Yes,,Active,0
+EMP136,4.2,Business Analyst,G5,Finance,Mumbai,MGR117,2,Low,No,,Active,0
+EMP137,6.5,Senior Engineer,G4,Human Resources,Mumbai,MGR122,2,High,No,Compensation,Voluntary,1
+EMP138,8.6,Data Analyst,G4,Human Resources,Chennai,MGR126,5,Low,Yes,,Layoff,0
+EMP139,4.7,QA Engineer,G6,Finance,Hyderabad,MGR106,4,High,Yes,,Transfer,0
+EMP140,11.7,Software Engineer,G6,Analytics,Chennai,MGR101,1,Mid,No,,Layoff,0
+EMP141,11.6,Senior Engineer,G7,Analytics,Mumbai,MGR105,3,High,Yes,Compensation,Voluntary,1
+EMP142,3.4,Data Analyst,G6,Analytics,Hyderabad,MGR133,3,Mid,No,Relocation,Voluntary,1
+EMP143,6.2,Senior Engineer,G5,Analytics,Pune,MGR114,4,Mid,No,,Layoff,0
+EMP144,4,Team Lead,G4,Operations,Pune,MGR120,3,Mid,Yes,,Layoff,0
+EMP145,3.8,Senior Engineer,G4,Engineering,Mumbai,MGR127,1,High,No,,Active,0
+EMP146,0.9,Software Engineer,G6,Engineering,Pune,MGR122,4,High,Yes,,Retirement,0
+EMP147,7.5,Data Analyst,G6,Engineering,Hyderabad,MGR132,2,Low,No,,Active,0
+EMP148,6.3,Senior Engineer,G6,Finance,Delhi,MGR107,3,High,Yes,,Layoff,0
+EMP149,1.1,Software Engineer,G6,Engineering,Bangalore,MGR117,3,Mid,No,Compensation,Voluntary,1
+EMP150,3.7,HR Executive,G7,Engineering,Bangalore,MGR147,1,Low,Yes,,Layoff,0
+EMP151,10.9,Team Lead,G7,Operations,Bangalore,MGR123,3,High,No,,Transfer,0
+EMP152,3.3,Senior Engineer,G4,Human Resources,Bangalore,MGR148,5,Low,Yes,,Retirement,0
+EMP153,2.2,QA Engineer,G7,Analytics,Hyderabad,MGR128,4,Mid,Yes,,Transfer,0
+EMP154,6.1,Senior Engineer,G6,Analytics,Mumbai,MGR118,5,Mid,No,Compensation,Voluntary,1
+EMP155,11.8,Team Lead,G4,Engineering,Bangalore,MGR119,2,Low,No,,Retirement,0
+EMP156,3.3,Business Analyst,G4,Engineering,Pune,MGR147,4,Low,Yes,,Layoff,0
+EMP157,8.2,Project Manager,G6,Engineering,Pune,MGR147,1,Mid,Yes,,Layoff,0
+EMP158,9.3,Senior Engineer,G6,Finance,Pune,MGR136,4,High,No,,Retirement,0
+EMP159,3.2,Senior Engineer,G7,Engineering,Delhi,MGR110,5,Mid,No,Work-Life Balance,Voluntary,1
+EMP160,8.9,Senior Engineer,G5,Analytics,Hyderabad,MGR125,5,Low,No,,Retirement,0
+EMP161,4.7,Business Analyst,G5,Operations,Bangalore,MGR104,5,High,Yes,,Transfer,0
+EMP162,7.8,Project Manager,G6,Operations,Chennai,MGR141,2,Low,Yes,,Active,0
+EMP163,7.8,Data Analyst,G5,Human Resources,Hyderabad,MGR109,1,Low,No,,Layoff,0
+EMP164,6.7,QA Engineer,G6,Operations,Bangalore,MGR128,1,Mid,No,,Retirement,0
+EMP165,1.5,Data Analyst,G4,Operations,Hyderabad,MGR104,3,Mid,No,Better Opportunity,Voluntary,1
+EMP166,10.1,Business Analyst,G6,Engineering,Chennai,MGR105,5,High,No,,Layoff,0
+EMP167,4.2,Software Engineer,G7,Finance,Chennai,MGR112,3,High,No,,Transfer,0
+EMP168,2.6,HR Executive,G4,Analytics,Mumbai,MGR121,1,High,Yes,Compensation,Voluntary,1
+EMP169,1,QA Engineer,G7,Finance,Hyderabad,MGR139,2,Mid,No,,Retirement,0
+EMP170,7.3,Team Lead,G7,Operations,Chennai,MGR138,1,High,No,Manager Issues,Voluntary,1
+EMP171,8.3,Senior Engineer,G7,Operations,Delhi,MGR146,5,Low,No,Career Growth,Voluntary,1
+EMP172,0.7,HR Executive,G6,Operations,Chennai,MGR144,4,Low,Yes,,Retirement,0
+EMP173,6.4,Team Lead,G6,Human Resources,Chennai,MGR144,5,Low,No,,Transfer,0
+EMP174,3.1,Business Analyst,G4,Operations,Delhi,MGR111,2,Mid,No,,Active,0
+EMP175,7.9,Project Manager,G5,Human Resources,Mumbai,MGR118,1,High,Yes,,Retirement,0
+EMP176,2.5,HR Executive,G7,Human Resources,Bangalore,MGR111,5,Low,No,Work-Life Balance,Voluntary,1
+EMP177,8.4,Business Analyst,G5,Analytics,Hyderabad,MGR118,4,Low,Yes,,Retirement,0
+EMP178,4.9,QA Engineer,G5,Operations,Chennai,MGR136,4,Mid,No,,Layoff,0
+EMP179,11.3,Team Lead,G5,Human Resources,Hyderabad,MGR108,3,Low,No,,Retirement,0
+EMP180,2.1,Senior Engineer,G4,Operations,Mumbai,MGR148,2,Mid,No,,Transfer,0
+EMP181,4.4,HR Executive,G7,Engineering,Bangalore,MGR128,3,Low,No,Work-Life Balance,Voluntary,1
+EMP182,1.8,Business Analyst,G5,Analytics,Mumbai,MGR123,2,Low,No,Relocation,Voluntary,1
+EMP183,11.1,Business Analyst,G5,Human Resources,Mumbai,MGR118,4,High,Yes,,Layoff,0
+EMP184,10.6,QA Engineer,G4,Engineering,Mumbai,MGR116,2,Low,No,Manager Issues,Voluntary,1
+EMP185,3.5,Project Manager,G6,Engineering,Mumbai,MGR115,4,High,No,Better Opportunity,Voluntary,1
+EMP186,8.1,QA Engineer,G4,Finance,Hyderabad,MGR115,2,Mid,No,Career Growth,Voluntary,1
+EMP187,9.9,Business Analyst,G5,Finance,Pune,MGR111,1,High,No,Career Growth,Voluntary,1
+EMP188,6.9,Software Engineer,G7,Analytics,Mumbai,MGR140,4,Mid,No,Manager Issues,Voluntary,1
+EMP189,6.6,Senior Engineer,G6,Human Resources,Chennai,MGR142,1,High,No,,Active,0
+EMP190,3.3,Software Engineer,G6,Finance,Delhi,MGR141,2,High,No,,Layoff,0
+EMP191,1.6,HR Executive,G5,Engineering,Chennai,MGR149,4,Low,No,,Active,0
+EMP192,10.8,Software Engineer,G5,Engineering,Delhi,MGR119,5,Mid,No,,Retirement,0
+EMP193,10.9,Software Engineer,G5,Operations,Delhi,MGR149,1,High,No,,Retirement,0
+EMP194,7.8,Senior Engineer,G6,Analytics,Pune,MGR147,4,Mid,No,,Active,0
+EMP195,4.4,QA Engineer,G7,Operations,Hyderabad,MGR117,1,High,No,Work-Life Balance,Voluntary,1
+EMP196,4.5,HR Executive,G6,Operations,Mumbai,MGR105,3,High,No,,Retirement,0
+EMP197,8.8,QA Engineer,G7,Human Resources,Chennai,MGR128,3,Mid,Yes,,Retirement,0
+EMP198,10.8,Team Lead,G6,Engineering,Mumbai,MGR142,4,Mid,Yes,Compensation,Voluntary,1
+EMP199,10.7,QA Engineer,G4,Human Resources,Mumbai,MGR115,3,Mid,No,,Transfer,0
+EMP200,9.5,Software Engineer,G5,Analytics,Delhi,MGR123,4,Low,Yes,,Transfer,0
+EMP201,7.9,Business Analyst,G7,Operations,Chennai,MGR117,2,Low,Yes,,Active,0
+EMP202,1.5,QA Engineer,G7,Finance,Mumbai,MGR116,3,High,No,,Active,0
+EMP203,2.4,Data Analyst,G7,Human Resources,Mumbai,MGR108,1,Mid,Yes,,Layoff,0
+EMP204,10.8,Senior Engineer,G6,Operations,Chennai,MGR104,5,High,No,,Retirement,0
+EMP205,7.5,HR Executive,G5,Operations,Hyderabad,MGR114,1,Low,Yes,,Active,0
+EMP206,0.6,QA Engineer,G4,Operations,Hyderabad,MGR136,3,Mid,Yes,,Transfer,0
+EMP207,1.7,Senior Engineer,G4,Operations,Pune,MGR145,4,High,No,,Layoff,0
+EMP208,8.1,Senior Engineer,G5,Operations,Chennai,MGR104,4,Mid,No,,Active,0
+EMP209,0.6,HR Executive,G5,Analytics,Hyderabad,MGR103,1,High,Yes,,Retirement,0
+EMP210,2.3,HR Executive,G5,Operations,Chennai,MGR114,3,High,No,Manager Issues,Voluntary,1
+EMP211,6.8,Project Manager,G6,Human Resources,Chennai,MGR119,5,High,Yes,,Transfer,0
+EMP212,8.5,HR Executive,G5,Human Resources,Chennai,MGR139,5,Mid,Yes,Better Opportunity,Voluntary,1
+EMP213,8,Software Engineer,G6,Human Resources,Hyderabad,MGR126,5,High,Yes,,Layoff,0
+EMP214,3.1,Data Analyst,G6,Analytics,Bangalore,MGR143,4,Mid,No,Relocation,Voluntary,1
+EMP215,8.7,Software Engineer,G5,Analytics,Pune,MGR130,4,Low,No,,Transfer,0
+EMP216,3.2,HR Executive,G6,Operations,Chennai,MGR122,4,Low,No,,Transfer,0
+EMP217,4.2,Senior Engineer,G6,Human Resources,Pune,MGR107,3,Mid,Yes,,Active,0
+EMP218,9.1,Senior Engineer,G4,Operations,Pune,MGR139,4,Low,Yes,,Retirement,0
+EMP219,8,Business Analyst,G5,Human Resources,Pune,MGR132,4,Mid,No,,Layoff,0
+EMP220,10.3,Software Engineer,G4,Analytics,Hyderabad,MGR129,2,Low,No,Better Opportunity,Voluntary,1
+EMP221,8.1,Data Analyst,G7,Finance,Chennai,MGR143,4,Mid,Yes,Work-Life Balance,Voluntary,1
+EMP222,7,HR Executive,G6,Operations,Pune,MGR123,1,Mid,Yes,,Transfer,0
+EMP223,1.6,Project Manager,G6,Finance,Delhi,MGR104,4,High,No,,Transfer,0
+EMP224,4.7,Data Analyst,G4,Human Resources,Mumbai,MGR125,3,Mid,No,,Active,0
+EMP225,3.5,Project Manager,G7,Finance,Mumbai,MGR102,1,Low,No,,Layoff,0
+EMP226,3.3,QA Engineer,G5,Finance,Hyderabad,MGR108,3,High,No,,Active,0
+EMP227,11.7,Team Lead,G6,Finance,Delhi,MGR132,5,High,No,,Transfer,0
+EMP228,5,Data Analyst,G7,Engineering,Delhi,MGR121,1,Mid,No,Career Growth,Voluntary,1
+EMP229,10.8,QA Engineer,G6,Finance,Hyderabad,MGR114,1,High,No,,Active,0
+EMP230,7.8,Team Lead,G5,Human Resources,Mumbai,MGR136,1,Low,Yes,,Layoff,0
+EMP231,9.6,Business Analyst,G7,Human Resources,Pune,MGR144,2,Mid,No,Relocation,Voluntary,1
+EMP232,6.3,HR Executive,G5,Finance,Delhi,MGR142,4,High,No,,Retirement,0
+EMP233,7.1,HR Executive,G7,Finance,Delhi,MGR134,3,High,No,,Transfer,0
+EMP234,6.2,QA Engineer,G5,Human Resources,Delhi,MGR135,3,Low,No,,Retirement,0
+EMP235,2.7,Project Manager,G7,Operations,Pune,MGR122,5,High,No,,Retirement,0
+EMP236,8.8,Senior Engineer,G7,Analytics,Delhi,MGR149,2,Mid,Yes,,Retirement,0
+EMP237,3.7,Senior Engineer,G6,Analytics,Chennai,MGR116,4,Low,Yes,,Transfer,0
+EMP238,0.8,Data Analyst,G6,Human Resources,Mumbai,MGR139,5,Low,Yes,Relocation,Voluntary,1
+EMP239,7.9,Project Manager,G5,Engineering,Mumbai,MGR126,3,High,No,Relocation,Voluntary,1
+EMP240,2.5,HR Executive,G4,Finance,Bangalore,MGR126,4,Mid,Yes,,Retirement,0
+EMP241,11.3,Business Analyst,G6,Engineering,Mumbai,MGR141,5,Low,Yes,,Active,0
+EMP242,11.5,Team Lead,G5,Engineering,Pune,MGR150,4,Low,No,Better Opportunity,Voluntary,1
+EMP243,11,Data Analyst,G4,Operations,Delhi,MGR129,5,High,No,,Active,0
+EMP244,4.8,QA Engineer,G6,Human Resources,Mumbai,MGR121,2,High,No,,Retirement,0
+EMP245,0.7,HR Executive,G4,Operations,Delhi,MGR136,2,Low,No,,Layoff,0
+EMP246,11.2,Business Analyst,G4,Analytics,Chennai,MGR106,2,Low,No,,Retirement,0
+EMP247,5.4,Project Manager,G4,Operations,Pune,MGR115,4,Mid,No,,Retirement,0
+EMP248,11.6,Software Engineer,G6,Operations,Chennai,MGR115,1,High,Yes,,Layoff,0
+EMP249,11.6,Data Analyst,G5,Analytics,Chennai,MGR132,3,High,Yes,,Retirement,0
+EMP250,10.3,Business Analyst,G5,Human Resources,Bangalore,MGR130,2,Mid,No,,Layoff,0
+EMP251,3.9,QA Engineer,G5,Human Resources,Chennai,MGR148,5,Low,No,,Transfer,0
+EMP252,4.9,Business Analyst,G4,Finance,Mumbai,MGR103,5,High,Yes,,Transfer,0
+EMP253,10.3,HR Executive,G5,Operations,Hyderabad,MGR128,1,High,Yes,,Transfer,0
+EMP254,4.1,QA Engineer,G4,Finance,Pune,MGR103,4,Low,No,,Layoff,0
+EMP255,2.4,Software Engineer,G7,Operations,Chennai,MGR101,4,Mid,Yes,,Active,0
+EMP256,6.9,Senior Engineer,G4,Analytics,Delhi,MGR144,1,High,Yes,Work-Life Balance,Voluntary,1
+EMP257,11.3,Software Engineer,G6,Analytics,Bangalore,MGR149,2,High,No,,Retirement,0
+EMP258,8.5,Team Lead,G7,Analytics,Pune,MGR105,5,Low,No,Compensation,Voluntary,1
+EMP259,7.1,Team Lead,G5,Human Resources,Mumbai,MGR148,1,Mid,No,,Transfer,0
+EMP260,1.6,Team Lead,G7,Human Resources,Bangalore,MGR129,3,Low,No,,Active,0
+EMP261,7.6,Senior Engineer,G4,Analytics,Hyderabad,MGR149,1,Low,Yes,Better Opportunity,Voluntary,1
+EMP262,11.9,Software Engineer,G7,Finance,Chennai,MGR145,1,Low,Yes,,Layoff,0
+EMP263,2.1,QA Engineer,G5,Finance,Bangalore,MGR148,1,Low,No,,Active,0
+EMP264,6.5,Business Analyst,G6,Human Resources,Delhi,MGR109,5,Low,No,,Retirement,0
+EMP265,10.6,Data Analyst,G4,Finance,Hyderabad,MGR147,2,High,No,,Transfer,0
+EMP266,9,QA Engineer,G4,Operations,Chennai,MGR142,4,High,No,,Layoff,0
+EMP267,8.5,Team Lead,G5,Operations,Pune,MGR111,5,Mid,Yes,,Active,0
+EMP268,8.6,Data Analyst,G5,Analytics,Mumbai,MGR135,4,Mid,Yes,,Layoff,0
+EMP269,4.6,Project Manager,G6,Human Resources,Delhi,MGR141,1,Mid,No,Career Growth,Voluntary,1
+EMP270,3.9,Project Manager,G4,Operations,Pune,MGR143,5,High,Yes,Compensation,Voluntary,1
+EMP271,9.8,Project Manager,G7,Human Resources,Delhi,MGR119,1,Low,Yes,Relocation,Voluntary,1
+EMP272,9.8,QA Engineer,G5,Finance,Chennai,MGR113,4,Low,No,,Retirement,0
+EMP273,10.5,Team Lead,G7,Finance,Chennai,MGR122,3,Mid,No,,Transfer,0
+EMP274,11,QA Engineer,G7,Engineering,Chennai,MGR130,3,Low,No,,Retirement,0
+EMP275,6.4,Team Lead,G4,Finance,Bangalore,MGR147,2,Low,No,,Transfer,0
+EMP276,6.3,Team Lead,G6,Human Resources,Bangalore,MGR121,2,Mid,Yes,,Layoff,0
+EMP277,9.7,Business Analyst,G6,Analytics,Chennai,MGR141,4,Mid,Yes,,Retirement,0
+EMP278,8,HR Executive,G5,Finance,Pune,MGR111,5,High,Yes,,Transfer,0
+EMP279,8.6,Software Engineer,G4,Engineering,Mumbai,MGR126,2,High,Yes,Relocation,Voluntary,1
+EMP280,9.7,HR Executive,G4,Human Resources,Hyderabad,MGR129,3,Low,No,,Layoff,0
+EMP281,10.7,Software Engineer,G4,Finance,Hyderabad,MGR126,1,Low,No,,Transfer,0
+EMP282,4.4,Data Analyst,G4,Finance,Chennai,MGR143,4,Low,Yes,Career Growth,Voluntary,1
+EMP283,4.8,HR Executive,G5,Human Resources,Hyderabad,MGR133,3,Mid,No,,Layoff,0
+EMP284,1.6,Senior Engineer,G6,Analytics,Pune,MGR136,2,High,Yes,,Retirement,0
+EMP285,7.2,Senior Engineer,G4,Engineering,Pune,MGR124,4,High,No,Relocation,Voluntary,1
+EMP286,0.9,Software Engineer,G5,Engineering,Pune,MGR127,3,High,Yes,,Transfer,0
+EMP287,5.9,Software Engineer,G5,Human Resources,Chennai,MGR136,4,Mid,Yes,Relocation,Voluntary,1
+EMP288,6.7,Data Analyst,G4,Human Resources,Delhi,MGR101,2,High,Yes,,Layoff,0
+EMP289,3.8,Senior Engineer,G6,Human Resources,Hyderabad,MGR115,5,Mid,No,,Layoff,0
+EMP290,7.3,HR Executive,G4,Finance,Chennai,MGR122,1,Low,No,,Active,0
+EMP291,0.9,Senior Engineer,G6,Finance,Hyderabad,MGR138,4,Mid,Yes,,Retirement,0
+EMP292,0.9,QA Engineer,G7,Human Resources,Delhi,MGR135,4,Mid,Yes,,Transfer,0
+EMP293,10,Team Lead,G4,Finance,Delhi,MGR115,1,Low,No,,Active,0
+EMP294,4.6,Team Lead,G5,Analytics,Delhi,MGR123,1,Low,Yes,,Retirement,0
+EMP295,2,QA Engineer,G6,Operations,Mumbai,MGR108,1,Low,No,,Layoff,0
+EMP296,6.5,Team Lead,G4,Engineering,Mumbai,MGR122,5,Low,No,,Layoff,0
+EMP297,9.4,Software Engineer,G6,Analytics,Pune,MGR149,1,High,Yes,,Transfer,0
+EMP298,3,HR Executive,G7,Human Resources,Bangalore,MGR117,3,Mid,No,,Active,0
+EMP299,7.7,Senior Engineer,G5,Analytics,Delhi,MGR126,3,Mid,Yes,,Retirement,0
+EMP300,1.5,Data Analyst,G5,Analytics,Hyderabad,MGR139,2,Mid,Yes,,Active,0
