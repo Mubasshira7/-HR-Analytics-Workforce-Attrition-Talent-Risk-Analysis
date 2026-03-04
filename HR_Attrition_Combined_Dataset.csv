@@ -1,0 +1,6 @@
+Employee_ID_Anonymized,Tenure_Years,Role,Grade,Department,Location,Manager_ID_Anonymized,Performance_Rating,Compensation_Band,Promotion_Last_3Y,Exit_Survey_Reason,Exit_Type,Attrition_Flag_1_Voluntary_0_Other
+EMP001,2.5,Software Engineer,G5,Engineering,Mumbai,MGR101,3,Mid,No,Better Opportunity,Voluntary,1
+EMP002,5.2,Senior Engineer,G6,Engineering,Bangalore,MGR102,4,High,Yes,,Active,0
+EMP003,1.8,HR Executive,G4,Human Resources,Delhi,MGR103,2,Low,No,Manager Issues,Voluntary,1
+EMP004,10.0,Project Manager,G7,Operations,Pune,MGR104,5,High,Yes,,Retirement,0
+EMP005,3.4,Data Analyst,G5,Analytics,Hyderabad,MGR105,3,Mid,No,Compensation,Voluntary,1
