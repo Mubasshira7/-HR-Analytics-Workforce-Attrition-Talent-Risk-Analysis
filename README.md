@@ -8,3 +8,12 @@ HR suspects:
 3) Limited career growth opportunities
 However, there is no data-backed validation.
 This project applies People Analytics techniques to uncover root causes and build a predictive attrition risk model.
+
+
+* Attrition is defined strictly as voluntary resignation initiated by the employee.
+  The following exit types are excluded from attrition:
+      1) Layoffs
+      2) Retirements
+      3) Internal transfers
+   Any employer-initiated separation
+Only employees who resigned voluntarily are marked as Attrition = 1.
