@@ -17,3 +17,51 @@ This project applies People Analytics techniques to uncover root causes and buil
       3) Internal transfers
    Any employer-initiated separation
 Only employees who resigned voluntarily are marked as Attrition = 1.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weak 3 : Root Cause & Risk Scoring.
+
+
+# Objective
+ The objective of this phase is to:
+
+1)  Identify the key drivers of employee attrition (Root Causes)
+2) Build a risk scoring model to predict employees who are likely to leave.
+
+This combines:
+* Exit survey text analysis (NLP)
+* Rule-based risk scoring
+
+# Root Cause Analysis (Exit Survey NLP) Approach
+ > To understand why employees leave, open-ended exit survey comments were analyzed using basic NLP techniques:
+
+ 1) Text cleaning (lowercase, punctuation removal)
+2) Keyword frequency analysis
+3) Theme classification using predefined categories
+
+Theme Classification
+
+Theme                              	Description
+Compensation	                      Salary, benefits dissatisfaction
+Manager	                            Issues with leadership or reporting manager
+Growth	                            Lack of career progression
+Work-Life Balance	                  Long hours, stress
+Culture	                            Toxic work environment, team issues
+
+# Key Insights
+1) Compensation emerged as the most frequent reason for attrition
+2) Employees often mentioned lack of career growth opportunities
+3) Manager-related issues were strongly linked with poor team culture
+4) Early-tenure employees (<1 year) frequently cited work-life imbalance
+
